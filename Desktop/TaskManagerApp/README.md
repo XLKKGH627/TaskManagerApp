@@ -14,7 +14,7 @@ This app is built as part of the Chapter One React Native tech screen.
 
 ## 📸 Preview
 
-![Screenshot](./assets/screenshot.png)
+![Screenshot](./assets/Screenshot.png)
 
 ---
 
@@ -52,7 +52,7 @@ npm install -g expo-cli
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/TaskManagerApp.git
+git clone https://github.com/XLKKGH627/TaskManagerApp.git
 
 cd TaskManagerApp
 ```
